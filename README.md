@@ -2,4 +2,6 @@
 
 1 A survey of state-of-the-art on visual SLAM: https://www.sciencedirect.com/science/article/pii/S0957417422010156
 
-2 survye of visual-lidar SLAM: https://www.mdpi.com/1424-8220/20/7/2068
+2 survey of visual-lidar SLAM: https://www.mdpi.com/1424-8220/20/7/2068
+
+3 Sparse pose adjustment 2d mapping: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5649043
